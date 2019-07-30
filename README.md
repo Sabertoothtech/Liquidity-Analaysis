@@ -6,3 +6,4 @@
     
    But to measure the impact a news carry we should use volume as one of the factor. Volume of a stock is very volatile, and thus, it is difficult to analyse the impact by simply calculating percentage change in the volume itself. Believe me when I say that I have observed more than 400% change in volume within some interval of time.
  
+To find out or approach [Click Here](https://github.com/vishalsingh9423/Stock-Prediction/tree/master/Scraping/Crawler)
