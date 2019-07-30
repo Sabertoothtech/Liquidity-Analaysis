@@ -1,5 +1,5 @@
 # Liquidity-Analaysis
-## Quantifying impact of a News on the volume of the Equity:
+### Quantifying impact of a News on the volume of the Equity:
    It is very obvious that a News about a company positive or negative will affect the company's stock in some manner.
     
    The price can rise-up or fall-down, even stay about the same at times. We can determine the sentiment of the news by the change in price, as to check wether the news was positive or negative.
